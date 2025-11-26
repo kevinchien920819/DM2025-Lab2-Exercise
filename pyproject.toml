@@ -28,6 +28,7 @@ dependencies = [
     "python-dotenv==1.1.1",
     "scikit-learn==1.7.1",
     "seaborn==0.13.2",
+    "sentence-transformers>=5.1.2",
     "tensorflow==2.20.0",
     "tensorflow-hub==0.16.1",
     "umap-learn==0.5.9.post2",
